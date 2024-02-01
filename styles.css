@@ -1,0 +1,42 @@
+<style>body {
+    background-image: url('K.jpeg'); /* Replace with your actual image file */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 20px;
+    cursor: pointer;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+footer {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+}
+</style>
